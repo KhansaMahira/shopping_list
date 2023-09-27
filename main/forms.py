@@ -1,4 +1,3 @@
-from itertools import product
 from django.forms import ModelForm
 from main.models import Product
 
